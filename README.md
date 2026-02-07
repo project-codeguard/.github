@@ -2,7 +2,7 @@
 Central repository for managing common GitHub configurations and contributing guidelines across all projects.
 ---
 
-[Project CodeGuard](https://github.com/project-codeguard/rules) is an open-source, model-agnostic security framework that embeds secure-by-default practices into AI coding agent workflows. It provides comprehensive security rules that guide AI assistants to generate more secure code automatically.
+[Project CodeGuard](https://github.com/cosai-oasis/project-codeguard) is an open-source, model-agnostic security framework that embeds secure-by-default practices into AI coding agent workflows. It provides comprehensive security rules that guide AI assistants to generate more secure code automatically.
 
 ## Why Project CodeGuard?
 
